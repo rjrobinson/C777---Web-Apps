@@ -4,7 +4,6 @@
     <list default="true" id="b98f2dcb-dfbd-4b92-8b94-e6f71d107f5d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab_2-1/css/habitat.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2-1/css/habitat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2-1/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2-1/index.htm" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +39,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.htm (1)">
+  <component name="RunManager" selected="JavaScript Debug.Lab_3-1.htm">
+    <configuration name="Lab_3-1.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_3-1/Lab_3-1.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.htm (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_2-1/index.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.htm (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_2-4/index.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_1-2/index.htm" useBuiltInWebServerPort="true">
@@ -49,6 +54,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Lab_3-1.htm" />
+        <item itemvalue="JavaScript Debug.index.htm (2)" />
         <item itemvalue="JavaScript Debug.index.htm (1)" />
         <item itemvalue="JavaScript Debug.index.htm" />
       </list>
@@ -65,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574731976631</updated>
       <workItem from="1574731978143" duration="21000" />
-      <workItem from="1574732009130" duration="1685000" />
+      <workItem from="1574732009130" duration="2299000" />
     </task>
     <servers />
   </component>

@@ -16,3 +16,14 @@ footer {
     text-align: center;
 }
 
+
+h1.right {
+    text-align: right;
+}
+
+nav {
+    background: #d8d8d8;
+    font-weight: bold;
+    float: left;
+    height: 420px;
+}

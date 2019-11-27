@@ -39,29 +39,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.htm (3)">
-    <configuration name="Lab_3-1.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_3-1/Lab_3-1.htm" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.htm (2)">
+    <configuration name="index.htm (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_4-1/index.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.htm (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_2-1/index.htm" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.htm (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_2-4/index.htm" useBuiltInWebServerPort="true">
+    <configuration name="index.htm (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_4-3/index.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.htm (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_3-2/index.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_1-2/index.htm" useBuiltInWebServerPort="true">
+    <configuration name="index.htm (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_3-3/Lab_3-3/index.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C777 - Web Apps/Lab_3-4/index.htm" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.htm (3)" />
-        <item itemvalue="JavaScript Debug.Lab_3-1.htm" />
         <item itemvalue="JavaScript Debug.index.htm (2)" />
         <item itemvalue="JavaScript Debug.index.htm (1)" />
         <item itemvalue="JavaScript Debug.index.htm" />
+        <item itemvalue="JavaScript Debug.index.htm (4)" />
+        <item itemvalue="JavaScript Debug.index.htm (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574731976631</updated>
       <workItem from="1574731978143" duration="21000" />
-      <workItem from="1574732009130" duration="2722000" />
+      <workItem from="1574732009130" duration="5096000" />
     </task>
     <servers />
   </component>
